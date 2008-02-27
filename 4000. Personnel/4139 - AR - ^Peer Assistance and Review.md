@@ -1,0 +1,49 @@
+---
+institution_name: "Santa Rosa City Schools"
+institution_id: "36030438"
+code: "4139"
+title: "^Peer Assistance and Review"
+type: "AR"
+date_last_revised: "02/27/2008"
+date_last_reviewed: "02/27/2008"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=slshB2LimpDdNDXMFZjoeuCng%3D%3D&ptid=muNUlKiR2jsXcslsh28JpBkiw%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+---
+
+**Joint Teacher-Administrator Peer Review Panel**
+
+The joint teacher-administrator peer review panel shall: (Education Code 44502)
+
+1. Select teachers to serve as consulting teachers
+2. Review peer review reports prepared by consulting teachers
+3. Make recommendations to the Board of Education regarding participants in the peer assistance and review program including forwarding to the Board the names of individuals who, after sustained assistance, have been unable to demonstrate satisfactory improvement
+4. Periodically evaluate the impact of the program in order to improve the program, including but not limited to, interviews or surveys of program participants, and submit any recommendations for improvement to the Board and exclusive representative of certificated employees in the district
+
+The majority of the panel shall be composed of certificated classroom teachers chosen by other certificated classroom teachers. The remainder of the panel shall be composed of school administrators chosen by the Superintendent or designee. (Education Code 44502).
+
+**Program Participation**
+
+Teachers may volunteer to participate in the program or may be referred as a result of an unsatisfactory rating in their performance evaluation. Teachers also may be referred pursuant to a collective bargaining agreement. (Education Code 44500)
+
+A teacher participating in the program shall be a permanent employee of the district. (Education Code 44500)
+
+**Selection of Consulting Teachers**
+
+Consulting teachers shall be selected by the majority vote of the joint teacher-administrator peer review panel. The selection process shall include provisions for the panel to observe the candidate's classroom. (Education Code 44502)
+
+A teacher selected to serve as a consulting teacher shall: (Education Code 44501)
+
+1. Have substantial recent experience in classroom instruction
+2. Have demonstrated exemplary teaching ability as indicated by, at a minimum, effective communication skills, subject matter knowledge, and mastery of a range of teaching strategies necessary to meet the needs of students in different contexts
+3. Be a credentialed classroom teacher with permanent status in the district
+
+**Program Components**
+
+The district's peer assistance and review program shall include: (Education Code 44500)
+
+1. Written performance goals for an individual teacher that are clearly stated, aligned with student learning and consistent with the evaluation criteria specified in Education Code 44662
+2. Assistance and review through multiple observations of a teacher during periods of classroom instruction
+3. A cooperative relationship between the consulting teacher and the principal with respect to the process of peer assistance and review
+4. Sufficient staff development activities to assist a teacher to improve his/her teaching skills and knowledge
+5. A monitoring component with a written record
+
+The final evaluation of a teacher's participation in the program shall be made available for placement in the teacher's personnel file. (Education Code 44500)
