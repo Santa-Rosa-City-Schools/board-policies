@@ -1,0 +1,21 @@
+---
+institution_name: "Santa Rosa City Schools"
+institution_id: "36030438"
+code: "5136"
+title: "Gangs"
+type: "AR"
+date_last_revised: "12/09/2009"
+date_last_reviewed: "04/17/2017"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=LDSDMXrmslshn8X7lw6et1NHg%3D%3D&ptid=9slshUHzTHxaaYMVf6zKpJz3Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+---
+
+1. Definition of a Gang For purposes of this policy, a gang is defined as two or more people who form an allegiance for a common purpose and engage, individually or collectively, in acts which may be threatening or criminal, and which may include such behaviors as intimidation, threats, and violence.
+2. Gang-Related Material and Behavior Which is Prohibited - Grades 4-12
+  1. Any article of clothing, paraphernalia, accessories, and graffiti which violates the school dress code and/or school safety plan is prohibited. When developing these plans and/or dress codes, school officials shall implement gang-related restrictions only after determining that there is evidence of gang presence at the specific school site, and a threat of disruption from that presence and must take into consideration information obtained from appropriate community agencies and resources, as well as parent groups and school site councils.
+  2. Any gang-related gesture, posturing, speech or other behavior which intimidates, poses a threat to others, causes, attempts to cause, or threatens to cause physical harm to others, or which may disrupt the educational process is prohibited.
+  3. Any student in violation of 2.a. or 2.b. above, shall be referred to the principal or designee for appropriate action as follows: ​​​​​​​
+    1. When violations of 2.a. involving clothing, paraphernalia, accessories, and/or graffiti occur, the specific items will be removed or covered as appropriate. The student and parent(s)/guardian(s) shall be informed of the reasons for such action and of the provisions of this regulation, and warned that the violation should not reoccur. This does not preclude the school official's prerogative to suspend the student, arrange a parent conference or to take other appropriate disciplinary action, which may include reporting to the police.
+    2. When violations of 2.b. involving related gestures, posturing, speech, or other behavior which is intimidating, threatening, or which causes, attempts to cause, or threatens to cause physical harm to others, or which may disrupt the educational process occur, the principal or designee shall take appropriate disciplinary action which may include application of the provisions of Education Code 48900 .
+    3. Repeated violators shall be considered to be a violation of Education Code 48900 and may be dealt with by suspension, referral to an appropriate district hearing and/or expulsion. The school principal or designee shall use his/her discretion in determining the appropriate discipline of repeat offenders, using the discipline guidelines established by the school and district. ​​​​​​​
+  4. The principal at each school site shall provide his/her staff training in current gang-related graffiti, signals, apparel, paraphernalia and any other significant gang-related material or information. The District Office shall provide the necessary in-service and resources to site principals and/or their designees to enable them to implement this training. The district and school sites shall also use the resources provided by the Santa Rosa Police Department concerning gangs within the surrounding community, to ensure up-to-date information on gang activity is available and to promote ongoing interagency cooperation to deter gang-related activities. ​​​​​​​
+  5. Students and parents/guardians shall be notified and informed at the beginning of each school year of the prohibitions set forth in the school site dress-code and safety plan, and of the consequences and procedures related to violations of same. Any student or parent/guardian who has questions related to any particular clothing, paraphernalia, accessory or a particular type of conduct prohibited by the school site dress-code and safety plan is encouraged to discuss the matter with the site principal or designee.
