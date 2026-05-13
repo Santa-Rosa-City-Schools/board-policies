@@ -4,14 +4,14 @@ institution_id: "36030438"
 code: "0450"
 title: "Comprehensive Safety Plan"
 type: "BP"
-date_last_revised: "04/23/2026"
-date_last_reviewed: "04/23/2026"
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=IhXOJdk4BmKFIFHFojf4RA%3D%3D&ptid=amIgTZiB9plushNjl6WXhfiOQ%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+date_last_revised: "05/13/2026"
+date_last_reviewed: "05/13/2026"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=2iplCCMBr2QY5u0MoyGE8w%3D%3D&ptid=amIgTZiB9plushNjl6WXhfiOQ%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
 The Governing Board recognizes that students and staff have the right to a safe and secure campus where they are free from physical and psychological harm. The Board is fully committed to maximizing school safety and to creating a positive learning environment that includes strategies for violence prevention and high expectations for staff and student conduct, responsible behavior, and respect for others.
 
-Districts with more than 2,500 ADA, and districts with 2,500 or less ADA that choose to develop school site plans
+OPTION 1: (Districts with more than 2,500 ADA, and districts with 2,500 or less ADA that choose to develop school site plans)
 
 The school site council at each district school shall develop a comprehensive school safety plan (CSSP) relevant to the needs and resources of that particular school. New school campuses shall develop a CSSP within one year of initiating operations. (Education Code 32281, 32286)
 
