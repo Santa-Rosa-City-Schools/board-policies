@@ -4,89 +4,41 @@ institution_id: "36030438"
 code: "6173"
 title: "Education For Homeless Children"
 type: "BP"
-date_last_revised: ""
-date_last_reviewed: ""
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=X92YcDYXICXikhxghveXOA%3D%3D&ptid=ruE8yj8gaZHBkLjNHWmKZw%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+date_last_revised: "05/13/2026"
+date_last_reviewed: "05/13/2026"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=4lXHQx385Z9slshhqfMNlMpsg%3D%3D&ptid=ruE8yj8gaZHBkLjNHWmKZw%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
-The Governing Board desires to ensure that homeless students have access to the same free and appropriate public education provided to other students within the district. The district shall provide homeless students with access to education and other services necessary for them to meet the same challenging academic standards as other students.
+The Governing Board believes that the identification of students experiencing homelessness is critical to improving the educational outcomes of such students and ensuring that students experiencing homelessness have access to the same free and appropriate public education provided to other students within the district. The district shall provide students experiencing homelessness with access to education and other services necessary for such students to meet the same challenging academic standards as other students.
 
-(cf. 6011 - Academic Standards)
+When there are at least 15 students experiencing homelessness in the district or a district school, the district's local control and accountability plan (LCAP) shall include goals and specific actions to improve student achievement and other outcomes of students experiencing homelessness. (Education Code 52052, 52060, 52064)
 
-The Superintendent or designee shall identify and remove any barriers to the identification and enrollment of homeless students and to the retention of homeless students due to absences or outstanding fees or fines. (42 USC 11432)
+The Superintendent or designee shall review district policies at least once every three years and recommend updates to ensure removal of any barriers to the education of students experiencing homelessness and unaccompanied youth. Any such review shall address identification, enrollment, and retention of such students, including those barriers that are due to absences or outstanding fees or fines. (Education Code 48851.3, 42 USC 11432)
 
-(cf. 3250 - Transportation Fees)
+The Superintendent or designee shall designate an appropriate staff person to serve as a liaison for homeless children and youths. The district liaison for homeless students shall fulfill the duties specified in 42 USC 11432 to assist in identifying and supporting students experiencing homelessness to succeed in school, and as specified in Education Code 48851.3 related to trainings for district staff providing assistance to students experiencing homelessness.
 
-(cf. 3260 - Fees and Charges)
+The Superintendent or designee shall ensure that each district school identifies all students experiencing homelessness and unaccompanied youths enrolled at the school. (Education Code 48851)
 
-(cf. 5113.1 - Chronic Absence and Truancy)
+To ensure easy identification of students experiencing homelessness, the Superintendent or designee shall annually provide and administer a housing questionnaire developed by the California Department of Education (CDE) to all parents/guardians of students and all unaccompanied youths. (Education Code 48851)
 
-When there are at least 15 homeless students in the district or a district school, the district's local control and accountability plan (LCAP) shall include goals and specific actions to improve student achievement and other outcomes of homeless students. (Education Code 52052, 52060)
+If the primary language of a student's parent/guardian or an unaccompanied youth is not English, either the housing questionnaire shall be made available in the primary language of the student's parent/guardian or the unaccompanied youth pursuant to Education Code 48985, or an appropriate translation of the housing questionnaire shall be provided upon request of a student's parent/guardian or an unaccompanied youth. (Education Code 48851)
 
-(cf. 0460 - Local Control and Accountability Plan)
+The Superintendent or designee shall report to CDE the number of students experiencing homelessness, including unaccompanied youths, enrolled in the district as identified from the housing questionnaire described above. (Education Code 48851)
 
-The Superintendent or designee shall designate an appropriate staff person to serve as a liaison for homeless children and youths. The district liaison shall fulfill the duties specified in 42 USC 11432 to assist in identifying and supporting homeless students to succeed in school.
+Additionally, the Superintendent or designee shall ensure that the district liaison's contact information and other information on homelessness, including, but not limited to, information regarding the educational rights and resources available to persons experiencing homelessness, are posted on the district and school websites as specified in the accompanying administrative regulation. (Education Code 48852.6)
 
-In order to identify district students who are homeless, the Superintendent or designee may give a housing questionnaire to all parents/guardians during school registration, make referral forms readily available, include the district liaison's contact information on the district and school web sites, provide materials in a language easily understood by families and students, provide school staff with professional development on the definition and signs of homelessness, and contact appropriate local agencies to coordinate referrals for homeless children and youth and unaccompanied youth.
+The Superintendent or designee shall ensure that placement decisions for students experiencing homelessness are based on the student's best interest as defined in law and administrative regulation.
 
-(cf. 1113 - District and School Web Sites)
+Each student experiencing homelessness shall be provided services that are comparable to services offered to other students in the school, including, but not limited to, transportation, educational programs for which the student meets the eligibility criteria (such as federal Title I services or similar state or local programs, programs for students with disabilities, and educational programs for English learners), career and technical education programs, programs for gifted and talented students, and school nutrition programs. (Education Code 48850; 42 USC 11432)
 
-(cf. 4131 - Staff Development)
+Students experiencing homelessness shall not be segregated into a separate school or program based on their status as homeless and shall not be stigmatized in any way. However, the Superintendent or designee may separate students experiencing homelessness on school grounds as necessary for short periods of time for health and safety emergencies or to provide temporary, special, and supplementary services to meet their unique needs. (42 USC 11432, 11433)
 
-(cf. 4231 - Staff Development)
+The Superintendent or designee shall ensure that information and/or materials for students experiencing homelessness are provided in a manner and form understandable to the student's parents/guardians and to unaccompanied youths.
 
-(cf. 4331 - Staff Development)
+Information about the living situation of a student experiencing homelessness shall be considered part of a student's educational record, subject to the Family Educational Rights and Privacy Act, shall not be deemed to be directory information as defined in 20 USC 1232g, and shall not be released without written consent. (42 USC 11432)
 
-Information about a homeless student's living situation shall be considered part of a student's educational record, subject to the Family Educational Rights and Privacy Act and shall not be deemed to be directory information as defined in 20 USC 1232g. (42 USC 11432)
+The Superintendent or designee shall coordinate with other agencies and entities to ensure that students experiencing homelessness are promptly identified, ensure that students experiencing homelessness have access to and are in reasonable proximity to available education and related support services, and raise the awareness of school personnel and service providers of the effects of short-term stays in a shelter and other challenges associated with homelessness. Toward these ends, the Superintendent or designee shall collaborate with local social services agencies, other agencies or entities providing services to students experiencing homelessness, and, if applicable, transitional housing facilities. Additionally, the Superintendent or designee shall coordinate transportation, transfer of school records, and other interdistrict activities with other local educational agencies. As necessary, the Superintendent or designee shall coordinate, within the district and with other involved local educational agencies, services for students experiencing homelessness and services for students with disabilities. (42 USC 11432)
 
-(cf. 5125 - Student Records)
+At least annually, the district liaison and other appropriate staff shall participate in professional development and other technical assistance activities to assist them in identifying and meeting the needs of students experiencing homelessness. Such professional development and technical assistance shall include, but are not limited to, training on the district's homeless education program policies, definitions of terms related to homelessness, recognition of signs that students are experiencing or are at risk of experiencing homelessness, the steps that should be taken once a potentially homeless student is identified, and how to connect students experiencing homelessness with appropriate housing and service providers. (Education Code 48851.3, 48852.5; 42 USC 11432)
 
-(cf. 5125.1 - Release of Directory Information)
-
-The Superintendent or designee shall ensure that placement decisions for homeless students are based on the student's best interest as defined in law and administrative regulation.
-
-Each homeless student shall be provided services that are comparable to services offered to other students in the school, including, but not limited to, transportation, educational programs for which the student meets the eligibility criteria (such as federal Title I services or similar state or local programs, programs for students with disabilities, and educational programs for English learners), career and technical education programs, programs for gifted and talented students, and school nutrition programs. (42 USC 11432)
-
-(cf. 3550 - Food Service/Child Nutrition Program)
-
-(cf. 3553 - Free and Reduced Price Meals)
-
-(cf. 5148.2 - Before/After School Programs)
-
-(cf. 5148.3 - Preschool/Early Childhood Education)
-
-(cf. 6159 - Individualized Education Program)
-
-(cf. 6164.2 - Guidance/Counseling Services)
-
-(cf. 6171 - Title I Programs)
-
-(cf. 6172 - Gifted and Talented Student Program)
-
-(cf. 6174 - Education for English Language Learners)
-
-(cf. 6177 - Summer Learning Programs)
-
-(cf. 6178 - Career and Technical Education)
-
-(cf. 6179 - Supplemental Instruction)
-
-Homeless students shall not be segregated into a separate school or program based on their status as homeless and shall not be stigmatized in any way. However, the Superintendent or designee may separate homeless students on school grounds as necessary for short periods of time for health and safety emergencies or to provide temporary, special, and supplementary services to meet the unique needs of homeless students. (42 USC 11432, 11433)
-
-(cf. 0410 - Nondiscrimination in District Programs and Activities)
-
-(cf. 3553 - Free and Reduced Price Meals)
-
-The Superintendent or designee shall coordinate with other agencies and entities to ensure that homeless children and youth are promptly identified, ensure that homeless students have access to and are in reasonable proximity to available education and related support services, and raise the awareness of school personnel and service providers of the effects of short-term stays in a shelter and other challenges associated with homelessness. Toward these ends, the Superintendent or designee shall collaborate with local social services agencies, other agencies or entities providing services to homeless children and youth, and, if applicable, transitional housing facilities. In addition, the Superintendent or designee shall coordinate transportation, transfer of school records, and other interdistrict activities with other local educational agencies. As necessary, the Superintendent or designee shall coordinate, within the district and with other involved local educational agencies, services for homeless students and services for students with disabilities. (42 USC 11432)
-
-(cf. 1020 - Youth Services)
-
-District liaisons and other appropriate staff shall participate in professional development and other technical assistance activities to assist them in identifying and meeting the needs of homeless students and to provide training on the definitions of terms related to homelessness. (42 USC 11432)
-
-At least annually, the Superintendent or designee shall report to the Board on outcomes for homeless students, which may include, but are not limited to, school attendance, student achievement test results, promotion and retention rates by grade level, graduation rates, suspension/expulsion rates, and other outcomes related to any goals and specific actions identified in the LCAP. Based on the evaluation data, the district shall revise its strategies as needed to better support the education of homeless students.
-
-(cf. 0500 - Accountability)
-
-(cf. 6162.51 - State Academic Achievement Tests)
-
-(cf. 6190 - Evaluation of the Instructional Program)
+At least annually, the Superintendent or designee shall report to the Board on the identification of and outcomes for students experiencing homelessness, which may include, but are not limited to, the housing questionnaire responses, school attendance, student achievement test results, promotion and retention rates by grade level, graduation rates, suspension/expulsion rates, and other outcomes related to any goals and specific actions identified in the LCAP. Based on the evaluation data, the district shall revise its strategies as needed to more effectively identify and support the education of students experiencing homelessness.
