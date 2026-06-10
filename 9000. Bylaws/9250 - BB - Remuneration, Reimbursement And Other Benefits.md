@@ -6,7 +6,7 @@ title: "Remuneration, Reimbursement And Other Benefits"
 type: "BB"
 date_last_revised: "06/10/2026"
 date_last_reviewed: "06/10/2026"
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=VnlXhdNKKwdg6jDCzIWihA%3D%3D&ptid=qo79RxbUbdO3GjATNVIJ7Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=a8hexQ8mU5qA2kUre3JjZA%3D%3D&ptid=qo79RxbUbdO3GjATNVIJ7Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
 **Compensation**
@@ -40,8 +40,6 @@ Board members may use district-issued credit cards while on official district bu
 **Benefits for Board Members**
 
 Board members may participate in the health and welfare benefits program provided for district employees as permitted by law. However, health and welfare benefits for Board members shall be no greater than that received by the district's nonsafety employees with the most generous schedule of benefits. (Government Code 53201, 53205, 53208.5)
-
-OPTION 1: (District pays premium)
 
 The district shall pay the premiums required for Board members electing to participate in the district health and welfare benefits program to the same extent that it pays for district employees.
 
