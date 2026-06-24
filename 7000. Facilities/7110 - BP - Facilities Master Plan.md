@@ -4,18 +4,18 @@ institution_id: "36030438"
 code: "7110"
 title: "Facilities Master Plan"
 type: "BP"
-date_last_revised: "04/12/2017"
-date_last_reviewed: "04/12/2017"
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=ppbYnTtIuZOpi0TbhKSOvQ%3D%3D&ptid=p6cSCZdPToF4D3nrlpluslRnw%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+date_last_revised: "06/24/2026"
+date_last_reviewed: "06/24/2026"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=UEBX6KtUW8fKEzKRKB0MIw%3D%3D&ptid=p6cSCZdPToF4D3nrlpluslRnw%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
-The Board of Education recognizes the importance of long-range planning for school facilities in order to address changes in student enrollment and in the district's educational program needs. The Superintendent or designee shall develop, for Board approval, a master plan for district facilities which describes the district's anticipated short- and long-term facilities needs and priorities.
+The Governing Board recognizes the importance of long-range planning for school facilities in order to address changes in student enrollment, teacher housing needs, the district's educational program, and carrying out the district's vision, mission, and goals. The Superintendent or designee shall develop, for Board approval, a master plan for district facilities which describes the district's anticipated short- and long-term facilities needs and priorities.
 
 **Plan Development**
 
 The district's facilities master plan shall be based on an assessment of the condition and adequacy of existing facilities, a projection of future enrollments, and alignment of facilities with the district's vision for the instructional program.
 
-To solicit broad input into the planning process, the Superintendent or designee may establish a facilities advisory committee consisting of staff, parents/guardians, and business, local government, and other community representatives. He/she also shall ensure that the public is informed of the need for construction and modernization of facilities and of the district's plans for facilities.
+To solicit broad input into the planning process, the Superintendent or designee may establish a facilities advisory committee consisting of staff, parents/guardians, and business, local government, and other community representatives. The Superintendent or designee shall ensure that the public is informed of the need for construction and modernization of facilities and of the district's plans for facilities.
 
 At least 45 days prior to completion of any facilities plan that relates to the potential expansion of existing school sites or the necessity to acquire additional school sites, the Superintendent or designee shall notify and provide copies of the plan or any relevant and available information to the planning commission or agency of the city or county with land use jurisdiction within the district. (Government Code 65352.2)
 
@@ -29,7 +29,7 @@ The facilities master plan shall include:
 
 1. A statement of purpose, including district goals, philosophy, and related policies
 2. A description of the planning process
-3. Demographics of the community, such as economic trends, migration patterns, employment base, residential base, socioeconomic makeup, historical school enrollments, and inventory of physical resources and needs
+3. Description and demographics of the community, such as economic trends, migration patterns, employment base, residential base, socioeconomic makeup, historical school enrollments, and inventory of physical resources and needs
 4. A description of the educational program, such as grade-level organization, class size, staffing patterns, technology plans, special programs and support services, and other educational specifications
 5. Analysis of the safety, adequacy, and equity of existing facilities and potential for expansion, including the adequacy of classrooms, school cafeterias and food preparation areas, physical activity areas, playgrounds, parking areas, and other school grounds
 6. Site selection criteria and process
@@ -44,8 +44,12 @@ Planning shall ensure that school facilities meet the following minimum standard
 4. Are designed for the environmental comfort and work efficiency of the occupants
 5. Are designed to require a practical minimum of maintenance
 6. Are designed to meet federal, state, and local statutory requirements for structure, fire, and public safety
-7. Are designed and engineered with flexibility to accommodate future needs
+7. Are designed and engineered with flexibility to accommodate future need
 
-Plans for the design and construction of new school facilities also shall meet the standards described in 5 CCR 14030, green building standards pursuant to 24 CCR 101 et seq., the Americans with Disabilities Act pursuant to 42 USC 12101-12213, and any other requirements applicable to the funding source and type of project.
+Additionally, plans for the design and construction of new school facilities shall meet the standards described in 5 CCR 14030, the California Green Building Standards Code, Title 24, Part 11 of the California Code of Regulations ("CALGreen"), the Americans with Disabilities Act (ADA) pursuant to 42 USC 12101-12213, and any other requirements applicable to the funding source and type of project.
+
+However, plans for residential housing, which includes any building used or intended to be used by the district as a personal residence by a teacher or employee of the district, is not considered to be a "school building" and does not require approval by the Department of General Services regarding earthquake safety and/or the ADA. (Education Code 17283.5; Government Code 4454.5)
+
+In addition, plans for the design and construction of facilities, including furnishing of such facilities, shall promote safe environments for learning and engagement in accordance with Board Policy 5142 - Safety.
 
 To facilitate the efficient use of public resources when planning for new construction or modernization of school facilities, the district may consider designs that facilitate joint use of the facility with a local governmental agency, public postsecondary institution, or nonprofit organization.
