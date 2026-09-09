@@ -4,9 +4,9 @@ institution_id: "36030438"
 code: "6179"
 title: "Supplemental Instruction"
 type: "BP"
-date_last_revised: "06/14/2017"
-date_last_reviewed: "06/14/2017"
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=rTVqmctv0tDOIVSmaiK2Vw%3D%3D&ptid=ruE8yj8gaZHBkLjNHWmKZw%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+date_last_revised: "09/09/2026"
+date_last_reviewed: "09/09/2026"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=slshg0hgbByzgUtplusbfzw1P9tg%3D%3D&ptid=ruE8yj8gaZHBkLjNHWmKZw%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
 The Governing Board recognizes that high-quality supplemental instruction can motivate and support students to attain grade-level academic standards, overcome academic deficiencies, and/or acquire critical skills. The district shall offer programs of direct, systematic, and intensive supplemental instruction to meet student needs. Supplemental instruction shall be offered in accordance with law and may be used to assist the district in meeting its goals for student achievement.
@@ -15,14 +15,11 @@ Supplemental instruction may be offered during and outside the regular school da
 
 As appropriate, supplemental instruction may be provided through a classroom setting, individual or small group instruction, technology-based instruction, and/or an arrangement with a community or other external service provider.
 
-When determined to be necessary by the principal or designee, a student may be required to participate in supplemental instruction outside the regular school day. In such cases, written parent/guardian consent shall be obtained for the student's participation.
+When determined to be necessary by the principal or designee and when written parent/guardian consent is obtained for the student's participation, a student may be required to participate in supplemental instruction outside the regular school day.
 
-Supplemental instruction shall be offered to students in grades K-6 who have been retained or recommended for retention at their current grade level. (Education Code 37252.2, 48070.5)
-
-The district shall offer alternative supports designed to increase the academic achievement of socioeconomically disadvantaged students attending schools identified by the California Department of Education for program improvement for two or more consecutive years.
+Supplemental instruction shall be offered to students who are recommended for retention, or are identified as being at risk for retention, at their current grade level. (Education Code 48070.5)
 
 In addition, supplemental instruction may be offered to:
 
-1. Students who are identified as being at risk for retention based on state assessment results, grades, or other indicators
-2. Students who demonstrate academic deficiencies that may jeopardize their attainment of academic standards
-3. High school students who need support to successfully complete courses required for graduation
+1. Students who demonstrate academic deficiencies that may jeopardize their attainment of academic standards
+2. High school students who need support to successfully complete courses required for graduation
