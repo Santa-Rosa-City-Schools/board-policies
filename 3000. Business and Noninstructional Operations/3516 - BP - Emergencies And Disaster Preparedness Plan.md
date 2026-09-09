@@ -4,16 +4,16 @@ institution_id: "36030438"
 code: "3516"
 title: "Emergencies And Disaster Preparedness Plan"
 type: "BP"
-date_last_revised: "01/10/2019"
-date_last_reviewed: "01/10/2019"
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=din5z5oYzoqfkkWslshjhPoPQ%3D%3D&ptid=y1ZW0qRGjEafuplusqEjNeK2Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+date_last_revised: "09/09/2026"
+date_last_reviewed: "09/09/2026"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=um8uSEPEhslshrmSislshEQEbMQw%3D%3D&ptid=y1ZW0qRGjEafuplusqEjNeK2Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
-The Board of Education recognizes that all district staff and students must be prepared to respond quickly and responsibly to emergencies, disasters, and threats of disaster. The district shall take all reasonable steps to prevent and/or mitigate the impact of a disaster on district students, staff, and schools.
+The Governing Board recognizes that all district staff and students must be prepared to respond quickly and responsibly to emergencies, disasters, and threats of disaster. The district shall take all reasonable steps to prevent and/or mitigate the impact of a disaster on district students, staff, and schools.
 
-The Superintendent or designee shall develop and maintain a disaster preparedness plan which contains routine and emergency disaster procedures, including, but not limited to, earthquake emergency procedures, and adaptations for individuals with disabilities in accordance with the Americans with Disabilities Act. Such procedures shall be incorporated into the comprehensive school safety plan. (Education Code 32282)
+The Superintendent or designee shall develop and maintain a disaster preparedness plan which contains routine and emergency disaster procedures, including, but not limited to, earthquake emergency procedures, and adaptations for individuals with disabilities in accordance with the Americans with Disabilities Act, the federal Individuals with Disabilities Education Act, and Section 504 of the federal Rehabilitation Act of 1973. Such procedures shall be incorporated into the comprehensive school safety plan. (Education Code 32282)
 
-In developing the disaster preparedness plan, the Superintendent or designee shall involve district staff at all levels, including administrators, district police or security officers, facilities managers, transportation managers, food services personnel, school psychologists, counselors, school nurses, teachers, classified employees, and public information officers. As appropriate, he/she shall also collaborate with law enforcement, fire safety officials, emergency medical services, health and mental health professionals, parents/guardians, and students.
+In developing the disaster preparedness plan, the Superintendent or designee shall involve district staff at all levels, including administrators, district police or security officers, facilities managers, transportation managers, food services personnel, school psychologists, counselors, school nurses, teachers, classified employees, and public information officers. As appropriate, the Superintendent shall also collaborate with law enforcement, fire safety officials, emergency medical services, health and mental health professionals, parents/guardians, and students.
 
 The plan shall comply with state-approved Standardized Emergency Management System (SEMS) guidelines established for multiple-jurisdiction or multiple-agency operations and with the National Incident Management System.
 
