@@ -4,18 +4,18 @@ institution_id: "36030438"
 code: "3470"
 title: "Debt Issuance And Management"
 type: "BP"
-date_last_revised: "09/13/2017"
-date_last_reviewed: "09/13/2017"
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=OUbxkyGz4ZgWDr0PpslshTSmg%3D%3D&ptid=y1ZW0qRGjEafuplusqEjNeK2Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+date_last_revised: "09/09/2026"
+date_last_reviewed: "09/09/2026"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=JYlIIlLHORGw966F8IPSiw%3D%3D&ptid=y1ZW0qRGjEafuplusqEjNeK2Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
-The Board of Education is committed to long-term capital and financial planning and recognizes that the issuance of debt is a key source for funding the improvement and maintenance of school facilities and managing cash flow. Any debt issued by the district shall be consistent with law and this policy.
+The Governing Board is committed to long-term capital and financial planning and recognizes that the issuance of debt is a key source for funding the improvement and maintenance of school facilities and managing cash flow. Any debt issued by the district shall be consistent with law and this policy.
 
-The district shall not enter into indebtedness or liability that in any year exceeds the income and revenue provided for such year, unless two-thirds of the voters approve the obligation or one of the exceptions specified in law applies. (California Constitution, Article 16, Section 18)
+The district shall not enter into indebtedness or liability that in any year exceeds the income and revenue provided for such year, unless two-thirds of the voters approve the obligation or one of the exceptions specified in law applies.
 
-When the Board determines that it is in the best interest of the district, the Board may issue debt or order an election to issue debt. The Superintendent or designee shall make recommendations to the Board regarding appropriate financing methods for capital projects or other projects that are authorized purposes for debt issuance. When approved by the Board and/or the voters as applicable, the Superintendent or designee shall administer and coordinate the district's debt issuance program and activities, including the timing of issuance, sizing of issuance, method of sale, structuring of the issue, and marketing strategies.
+When the Board determines that it is in the best interest of the district, the Board may issue debt or order an election to issue debt. The Superintendent or designee shall make recommendations to the Board regarding appropriate financing methods for capital projects or other projects that are authorized purposes for debt issuance. When approved by the Board and/or the voters as applicable, the Superintendent or designee shall administer and coordinate the district's debt issuance program and activities, including the timing of issuance, sizing of issuance, method of sale, structuring of the issue, communication with the public, and marketing strategies.
 
-The Superintendent or designee shall retain a financial advisor, municipal advisor, investment advisor, and other financial services professionals as needed to assist with the structuring of the debt issuance and to provide general advice on the district's debt management program, financing options, investments, and compliance with legal requirements. Contracts for services provided by such advisors may be for a single transaction or for multiple transactions, consistent with the contracting requirements in Education Code 17596. In the event that the district issues debt through a negotiated sale, underwriters may be selected for multiple transactions if multiple issuances are planned for the same project. In addition, the district shall select a legal team on an as-needed basis to assist with debt issuances or special projects.
+The Superintendent or designee shall retain a financial advisor, municipal advisor, investment advisor, and/or other financial services professionals as needed to assist with the structuring of the debt issuance and to provide general advice on the district's debt management program, financing options, investments, and compliance with legal requirements. Contracts for services provided by such advisors may be for a single transaction or for multiple transactions, consistent with the contracting requirements in Education Code 17596. In the event that the district issues debt through a negotiated sale, underwriters may be selected for multiple transactions if multiple issuances are planned for the same project. Additionally, the district shall select a legal team on an as-needed basis to assist with debt issuances or special projects.
 
 **Goals**
 
@@ -47,17 +47,21 @@ Pursuant to Government Code 53854, general operating costs, including, but not l
 The Superintendent or designee shall recommend to the Board potential financing method(s) that result in the highest benefit to the district, with the cost of staff and consultants considered. Potential financing sources may include:
 
 1. Short-Term Debt
-  1. Short-term debt, such as tax and revenue anticipation notes (TRANs), when necessary to allow the district to meet its cash flow requirements (Government Code 53850 - 53858 )
-  2. Bond anticipation notes (BANs) to provide interim financing for capital bond projects that will ultimately be paid from general obligation bonds (Education Code 15150 )
-  3. Grant anticipation notes (GANs) to provide interim financing pending the receipt of grants and/or loans from the state or federal government that have been appropriated and committed to the district (Government Code 53859-53859.08) ​​​​​​​
-2. Long-Term Debt ​​​​​​​
-  1. General obligation bonds for projects approved by voters (California Constitution, Article 13A, Section 1; Education Code 15100 - 15262 , 15264 - 15276 ; Government Code 53506 - 53509.5 )
-  2. Special tax bonds issued pursuant to the Mello-Roos Community Facilities Act of 1982 (Government Code 53311 - 53368.3 ) ​​​​​​​
-3. Lease financing, including certificates of participation (COPs) ​​​​​​​
-  1. Lease financing to fund the highest priority capital equipment purchases when pay-as-you-go financing is not feasible (Education Code 17450 - 17453.1 )
-  2. Lease financing to fund facilities projects when there is insufficient time to obtain voter approval or in instances where obtaining voter approval is either not feasible or unavailable (Education Code 17400 - 17429 ) ​​​​​​​
-4. Special financing programs or structures offered by the federal or state government, such as Qualified Zone Academy Bonds or other tax credit obligations or obligations that provide subsidized interest payments, when the use of such programs or structures is determined to result in sufficiently lower financing costs compared to traditional tax-exempt bonds and/or COPs
-5. Temporary borrowing from other sources such as the County Treasurer
+  1. Short-term debt, such as tax and revenue anticipation notes (TRANs), when necessary to allow the district to meet its cash flow requirements (Government Code 53850-53858)
+  2. Bond anticipation notes (BANs) to provide interim financing for capital bond projects that will ultimately be paid from general obligation bonds (Education Code 15150)
+  3. Grant anticipation notes (GANs) to provide interim financing pending the receipt of grants and/or loans from the state or federal government that have been appropriated and committed to the district (Government Code 53859-53859.08)
+2. Long-Term Debt
+  1. General obligation bonds for projects approved by voters (Education Code 15100-15262, 15264-15276; Government Code 53506-53509.5)
+  2. Special tax bonds issued pursuant to the Mello-Roos Community Facilities Act of 1982 (Government Code 53311-53368.3)
+3. Lease financing, including certificates of participation (COPs)
+  1. Lease financing to fund the highest priority capital equipment purchases when pay-as-you-go financing is not feasible (Education Code 17450-17453.1)
+  2. Lease financing to fund facilities projects when there is insufficient time to obtain voter approval or in instances where obtaining voter approval is either not feasible or unavailable (Education Code 17400-17429)
+4. Special financing programs or structures offered by the federal or state government when the use of such programs or structures is determined to result in sufficiently lower financing costs compared to traditional tax-exempt bonds and/or COPs (Government Code 53700-53706)
+5. Temporary borrowing or short-term transfers from other sources, including the following: (Education Code 42620, 42621; Government Code 53820-53833, 53850-53858)
+  1. When the district lacks sufficient funds to meet its current expenses:
+    1. Transfers of funds from the County Treasurer up to 85 percent of the amount of money that will accrue to the district within the fiscal year
+    2. Transfers of funds from the county school service fund up to 85 percent of the money accruing to the district at the time of transfer, to be repaid before June 30 of the current fiscal year
+  2. Temporary borrowing from other sources
 
 COPs, TRANs, revenue bonds, or any other non-voter approved debt instrument shall not be issued by the district in any fiscal year in which the district has a qualified or negative certification, unless the County Superintendent of Schools determines, pursuant to criteria established by the Superintendent of Public Instruction, that the district's repayment of that indebtedness is probable. (Education Code 42133)
 
@@ -77,21 +81,23 @@ The district shall consider the overall impact of the current and future debt bu
 
 The district shall design the financing schedule and repayment of debt so as to take best advantage of market conditions, ensure cost effectiveness, provide flexibility, and, as practical, recapture or maximize its debt capacity for future use. Principal amortization will be structured to meet debt repayment, tax rate, and flexibility goals.
 
-For new money debt issuances for capital improvements, the district shall size the debt issuance with the aim of funding capital projects as deemed appropriate by the Board, as long as the issuance is consistent with the overall financing plan, does not exceed the amount authorized by voters, and, unless a waiver is sought and received from the state, will not cause the district to exceed the limitation on debt issuances specified in the California Constitution or Education Code 15106.
+For new money debt issuances for capital improvements, the district shall size the debt issuance with the aim of funding capital projects as deemed appropriate by the Board, as long as the issuance is consistent with the overall financing plan, does not exceed the amount authorized by voters, and, unless a waiver is sought and received from the state, will not cause the district to exceed the limitation on debt issuances specified in the California Constitution or Education Code 15102, 15106, 15268, and 15270.
 
 To the extent practicable, the district shall also consider credit issues, market factors, and tax law when sizing the district's bond issuance. The sizing of refunding bonds shall be determined by the amount of money that will be required to cover the principal of, any accrued interest on, and any redemption premium for the debt to be paid on the call date and to cover appropriate financing costs.
 
-Any general obligation bond issued by the district shall mature within 40 years of the issuance date or as otherwise required by law. (California Constitution, Article 16, Section 18; Government Code 53508.6)
+Any general obligation bond issued by the district shall mature within 40 years of the issuance date or as otherwise required by law. (Government Code 53508.6)
 
 The final maturity of equipment or real property lease obligations will be limited to the useful life of the assets to be financed but, with respect to a lease purchase of equipment, no longer than a period of 10 years. (Education Code 17452)
 
 **Method of Sale**
 
-For the sale of any district-issued debt, the Superintendent or designee shall recommend the method of sale with the potential to achieve the lowest financing cost and/or to generate other benefits to the district. Potential methods of sale include:
+For the sale of any district-issued debt, the Superintendent or designee shall recommend the method of sale which is most cost-effective, that has the potential to achieve the lowest financing cost, and/or generates other benefits to the district. Potential methods of sale include:
 
 1. A competitive bidding process through which the award is based on, among other factors, the lowest offered true interest cost
 2. Negotiated sale, subject to approval by the district to ensure that interest costs are in accordance with comparable market interest rates
 3. Private placement sale, when the financing can or must be structured for a single or limited number of purchasers or where the terms of the private placement are more beneficial to the district than either a negotiated or competitive sale
+
+Before any sale of bonds, the Board shall adopt a resolution stating the Board's express approval of the method of sale and a statement of the reasons for the method of sale selected. (Education Code 15146)
 
 **Investment of Proceeds**
 
@@ -115,16 +121,20 @@ When feasible, the district shall issue debt with a defined revenue source in or
 
 The district shall annually conduct a due diligence review to ensure its compliance with all ongoing obligations applicable to issuers of debt. Such a review may be conducted by general legal counsel or bond counsel. Any district personnel involved in conducting such reviews shall receive periodic training regarding their responsibilities.
 
-In addition, the Superintendent or designee shall ensure that the district completes, as applicable, all performance and financial audits that may be required for any debt issued by the district, including disclosure requirements applicable to a particular transaction.
+Additionally, the Superintendent or designee shall ensure that the district completes, as applicable, all performance and financial audits that may be required for any debt issued by the district, including disclosure requirements applicable to a particular transaction.
 
 **Records/Reports**
 
 At least 30 days prior to the sale of any debt issue, the Superintendent or designee shall submit a report of the proposed issuance to the California Debt and Investment Advisory Commission (CDIAC). Such report shall include a self-certification that the district has adopted a policy concerning the use of debt that complies with law and that the contemplated debt issuance is consistent with that policy. (Government Code 8855)
 
-On or before January 31 of each year, the Superintendent or designee shall submit a report to the CDIAC regarding the debt authorized, the debt outstanding, and the use of proceeds of the issued debt for the period from July 1 to June 30. (Government Code 8855)
+Following a bond issuance, by each subsequent January 31, the district shall submit an annual report to CDIAC that consists of the following information for a reporting period of the prior July 1 to June 30, inclusive: (Government Code 8855)
+
+1. The debt authorized, issued, authorized but unissued, and debt for which authorization has lapsed during the reporting period
+2. The principal balance at the beginning of the reporting period, the principal paid during the reporting period, and the remaining principal outstanding at the end of the reporting period
+3. The use of proceeds of issued debt including the amount of proceeds available at the beginning of the reporting period, the proceeds spent during the reporting period and the purposes for which they were spent, and the proceeds remaining at the end of the reporting period
 
 The Superintendent or designee shall provide initial and any annual or ongoing disclosures required by 17 CFR 240.10b-5 and 240.15c2-12 to the Municipal Securities Rulemaking Board, investors, and other persons or entities entitled to disclosure, and shall ensure that the district's disclosure filings are updated as needed.
 
-The Superintendent or designee shall maintain transaction records of decisions made in connection with each debt issuance, including the selection of members of the financing team, the structuring of the financing, selection of credit enhancement products and providers, and selection of investment products. Each transaction file shall include the official transcript for the financing, interest rates and cost of issuance on the day when the debt was sold ("final number runs"), and a post-pricing summary of the debt issue. In addition, documentation evidencing the expenditure of proceeds, the use of debt-financed property by public and private entities, all sources of payment or security for the debt, and investment of proceeds shall be kept for as long as the debt is outstanding, plus the period ending three years after the financial payment date of the debt or the final payment date of any obligations or series of bonds issued to refund directly or indirectly all of any portion of the debt, whichever is later.
+The Superintendent or designee shall maintain transaction records of decisions made in connection with each debt issuance, including the selection of members of the financing team, the structuring of the financing, selection of credit enhancement products and providers, and selection of investment products. Each transaction file shall include the official transcript for the financing, interest rates and cost of issuance on the day when the debt was sold ("final number runs"), and a post-pricing summary of the debt issue. Additionally, documentation evidencing the expenditure of proceeds, the use of debt-financed property by public and private entities, all sources of payment or security for the debt, and investment of proceeds shall be kept for as long as the debt is outstanding, plus the period ending three years after the financial payment date of the debt or the final payment date of any obligations or series of bonds issued to refund directly or indirectly all of any portion of the debt, whichever is later.
 
-The Superintendent or designee shall annually report to the Board regarding debts issued by the district, including information on actual and projected tax rates, an analysis of bonding capacity, ratings on the district's bonds, market update and refunding opportunities, new development for California bond financings, and the district's compliance with post-issuance requirements.
+The Superintendent or designee shall annually report to the Board regarding debt issued by the district, including information on actual and projected tax rates, an analysis of bonding capacity, ratings on the district's bonds, market update and refunding opportunities, new development for California bond financings, and the district's compliance with post-issuance requirements.
