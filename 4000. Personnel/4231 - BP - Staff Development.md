@@ -4,34 +4,53 @@ institution_id: "36030438"
 code: "4231"
 title: "Staff Development"
 type: "BP"
-date_last_revised: "04/12/2017"
-date_last_reviewed: "04/12/2017"
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=Efsi7cQHfSpbJcOhPTFNxw%3D%3D&ptid=muNUlKiR2jsXcslsh28JpBkiw%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+date_last_revised: "09/09/2026"
+date_last_reviewed: "09/09/2026"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=Dzx1WuGn97ESjDhq5POwgQ%3D%3D&ptid=muNUlKiR2jsXcslsh28JpBkiw%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
-The Board of Education recognizes that classified staff does essential work that supports a healthy school environment and the educational program. Classified staff shall have opportunities to participate in staff development activities in order to improve job skills, learn best practices, retrain as appropriate in order to meet changing conditions in the district, and/or enhance personal growth.
+The Governing Board recognizes that classified staff does essential work that supports students, helps create a healthy school environment, and furthers the educational program. Classified staff shall have opportunities to participate in staff development activities in order to improve job skills, learn best practices, retrain as appropriate in order to meet changing conditions in the district, and/or enhance personal growth.
 
-The Superintendent or designee shall involve classified staff, site and district administrators, and others, as appropriate, in the development of the district's staff development program. He/she shall ensure that the district's staff development program is aligned with district goals, school improvement objectives, the local control and accountability plan, and other district and school plans.
+Staff shall attend staff development as directed by the Superintendent or designee and in accordance with any applicable collective bargaining agreement and Board Policy 4219.1 - Civil and Legal Rights.
 
-Staff development may address general workplace skills and/or skills and knowledge specific to the duties of each classified position, including, but not limited to, the following topics: (Education Code 45391)
+The Superintendent or designee shall involve classified staff, site and district administrators, and others, as appropriate, in the development of the district's staff development program. The Superintendent or designee shall ensure that the district's staff development program is aligned with district goals, school improvement objectives, the local control and accountability plan, and other district and school plans.
 
-1. Student learning and achievement
+The district's staff development program shall assist classified staff in developing knowledge and skills, including, but not limited to:
+
+1. Youth behavioral health On or before July 1, 2029, 40 percent of classified staff who have direct contact with students in any of grades 7-12 shall, at least one time, receive youth behavioral health training which provides instruction around the unique risk factors and warning signs of behavioral health problems in adolescents, builds understanding of the importance of early intervention, and teaches classified staff how to help an adolescent in crisis or experiencing a behavioral health challenge. The training may also include instruction on: (Education Code 49428.2)
+  1. Recognizing the signs and symptoms of youth behavioral health disorders, including, but not limited to, psychiatric conditions and substance use disorders such as opioid and alcohol abuse
+  2. How to maintain student privacy and confidentiality in a manner consistent with federal and state privacy laws
+  3. Safe de-escalation of crisis situations involving students with a youth behavioral health disorder
+2. Mandated reporter requirements Classified staff shall receive training annually, or if hired during the course of the school year upon being hired, on the prevention of abuse, including sexual abuse, of children on school grounds, by school personnel, or in district-sponsored programs. The training shall include that failure to report an incident of known or reasonably suspected child abuse or neglect is a misdemeanor punishable by up to six months confinement in a county jail, or by a fine of one thousand dollars ($1,000), or by both imprisonment and fine. (Education Code 44691)
+3. Student learning and achievement (Education Code 45391)
   1. How paraprofessionals can assist teachers and administrators to improve the academic achievement of students
   2. Alignment of curriculum and instructional materials with Common Core State Standards
   3. The management and use of state and local student data to improve student learning
-  4. Best practices in appropriate interventions and assistance to at-risk students ​​​​​​​
-2. Student and campus safety
-3. Education technology, including management strategies and best practices regarding the use of education technology to improve student performance
-4. School facility maintenance and operations, including best practices in the operation and maintenance of school facilities, such as green technology and energy efficiency, that help reduce the use and cost of energy at school sites
-5. Special education, including best practices to meet the needs of special education students and to comply with any new state and federal mandates
-6. School transportation and bus safety
-7. Parent involvement, including ways to increase parent involvement at school sites
-8. Food service, including food preparation to provide nutritional meals, food safety, and food management
-9. Health, counseling, and nursing services ​​​​​​​
-10. Environmental safety, including pesticides and other possibly toxic substances so that they may be safely used at school sites
+  4. Best practices in appropriate interventions and assistance to at-risk students
+4. Student and campus safety, including implementation of the school safety plan (Education Code 45391)
+5. Education technology, including management strategies and best practices regarding the use of education technology to improve student performance (Education Code 45391)
+6. School facility maintenance and operations, including best practices in the operation and maintenance of school facilities, such as green technology and energy efficiency, that help reduce the use and cost of energy at school sites (Education Code 45391)
+7. Special education, including best practices to meet the needs of special education students and to comply with any new state and federal mandates (Education Code 45391)
+8. School transportation and bus safety (Education Code 45391)
+9. Parent/guardian involvement, including ways to increase parent/guardian involvement at school sites (Education Code 45391)
+10. Food service, including food preparation to provide nutritional meals, food safety, and food management (Education Code 45391)
+11. Health, counseling, and nursing services (Education Code 45391)
+12. Environmental safety, including pesticides and other possibly toxic substances so that they may be safely used at school sites (Education Code 45391)
 
-For classroom instructional aides or other classified staff involved in direct instruction of students, staff development activities may also include academic content of the core curriculum, teaching strategies, classroom management, or other training designed to improve student performance, conflict resolution, and relationships among students. Such professional learning opportunities shall be evaluated based on criteria specified in Education Code 44277 and BP 4131 - Staff Development.
+S**taff Development Materials and Services**
+
+The Board shall adopt staff development materials and services that align with the district's mission, vision, and goals, are relevant to student academic achievement and well-being, and are instrumental in assisting classified staff in developing the knowledge and skills specified in Items #1-12, above.
+
+The Board shall not adopt the use of any staff development materials or services that promote, endorse, or otherwise support actions or the use of any textbook, instructional material, supplemental instructional material, or curriculum which would subject a student to unlawful discrimination pursuant to Education Code 220 and Board Policy 0410 - Nondiscrimination in District Programs and Activities. (Education Code 244)
+
+If the Board knows or has reason to know that materials were used in a classroom, staff development materials or services were used, or an action occurred which subjected an individual to unlawful discrimination pursuant to Education Code 220, the Superintendent or designee shall remediate the action, which may include, but is not limited to, implementation of restorative justice practices. (Education Code 244)
+
+If it is determined that any textbook, instructional material, supplemental instructional material, staff development material, or curriculum provided by an organization has violated Education Code 244, the district shall notify the organization that corrective action is required unless the Superintendent of Public Instruction has already done so. If corrective action is not taken within 60 days, the California Department of Education may use any means authorized by law to effect compliance. (Education Code 60152)
+
+For classroom instructional aides or other classified staff involved in direct instruction of students, staff development activities may also include academic content of the core curriculum, teaching strategies, classroom management, or other training designed to improve student performance, conflict resolution, and relationships among students. Such professional learning opportunities shall be evaluated based on criteria specified in Education Code 44277 and Board Policy 4131 - Staff Development.
 
 The district's staff evaluation process may be used to recommend additional individualized staff development for individual employees.
 
-The Superintendent or designee shall provide a means for continual evaluation of the benefit of staff development activities to staff and students and shall regularly report to the Board regarding the effectiveness of the staff development program.
+An employee's assessment, testing, admission, or acknowledgment of their own personal bias that was made in good faith and solicited or required as part of a bias mitigation training does not, by itself, constitute unlawful discrimination. (Government Code 12940.2)
+
+The Superintendent or designee shall provide a means for continual evaluation of the benefit of staff development activities to both staff and students and shall regularly report to the Board regarding the effectiveness of the staff development program. Based on the Superintendent's report, the Board may revise the program as necessary to ensure that the staff development program supports the district's priorities for student achievement and well-being.
