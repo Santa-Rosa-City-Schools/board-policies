@@ -4,9 +4,9 @@ institution_id: "36030438"
 code: "4033"
 title: "Lactation Accommodation"
 type: "BP"
-date_last_revised: "02/19/2020"
+date_last_revised: "09/23/2026"
 date_last_reviewed: "09/23/2026"
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=f3xd2R64zvslshzaCr9PVMUuw%3D%3D&ptid=muNUlKiR2jsXcslsh28JpBkiw%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=cnc39IKtiNydZjh990BZIQ%3D%3D&ptid=muNUlKiR2jsXcslsh28JpBkiw%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
 The Governing Board recognizes the immediate and long-term health benefits of breast milk and desires to provide a supportive environment for any district employee to express breast milk for an infant child upon returning to work following the birth of the child. The Board prohibits discrimination, harassment, and/or retaliation against any district employee for seeking an accommodation to express breast milk for an infant child while at work.
