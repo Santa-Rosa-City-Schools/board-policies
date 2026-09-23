@@ -4,9 +4,9 @@ institution_id: "36030438"
 code: "5126"
 title: "Awards For Achievement"
 type: "BP"
-date_last_revised: "01/27/2021"
+date_last_revised: "09/23/2026"
 date_last_reviewed: "09/23/2026"
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=Bfplus7sVB3rrVD7bu1aMpr2g%3D%3D&ptid=9slshUHzTHxaaYMVf6zKpJz3Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=OPqQmUjOpBbuWPlHMBDLRQ%3D%3D&ptid=9slshUHzTHxaaYMVf6zKpJz3Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
 The Governing Board encourages excellence as a goal for all students and wishes to publicly recognize students for exemplary achievement in academic, artistic, extracurricular, athletic, and community service activities.
