@@ -4,9 +4,9 @@ institution_id: "36030438"
 code: "5132"
 title: "Dress And Grooming"
 type: "BP"
-date_last_revised: "04/12/2017"
+date_last_revised: "09/23/2026"
 date_last_reviewed: "09/23/2026"
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=fRwslshz5suagWOySzQM2Tsvg%3D%3D&ptid=9slshUHzTHxaaYMVf6zKpJz3Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=uXKH8J9bsPgf0VnplusYylzng%3D%3D&ptid=9slshUHzTHxaaYMVf6zKpJz3Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
 The Governing Board believes that appropriate dress and grooming contribute to a productive learning environment. The Board expects students to wear clothing that is suitable for the school activities in which they participate. Students shall not wear clothing that presents a health or safety hazard or causes a substantial disruption to the educational program.
