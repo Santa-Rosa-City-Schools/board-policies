@@ -6,7 +6,7 @@ title: "Agenda/Meeting Materials"
 type: "BB"
 date_last_revised: "10/14/2026"
 date_last_reviewed: "10/14/2026"
-source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=AmMslshoOfcs6qIbFwzKxGXMQ%3D%3D&ptid=qo79RxbUbdO3GjATNVIJ7Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
+source_url: "https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030438&revid=GXQ7LmO79hB5cu1XNgemyA%3D%3D&ptid=qo79RxbUbdO3GjATNVIJ7Q%3D%3D&secid=&PG=6&IRP=0&isPndg=false"
 ---
 
 Governing Board meeting agendas shall reflect the district's vision and goals and the Board's focus on student learning and well-being.
@@ -64,7 +64,9 @@ The following sample land acknowledgment may be used:
 
 The Board president and the Superintendent, as secretary to the Board, shall work together to develop the agenda for each meeting, including whether an item requires Board action and whether an item shall be considered in open or closed session.
 
-The Vice-President shall also collaborate in the agenda preparation process as deemed appropriate, ensuring alignment with Board priorities and fostering broader input. Such collaboration is encouraged, though at the discretion of the Board president and Superintendent. Any member of the public, or an individual Board member acting in that Board member's capacity as a member of the public, may request that a matter within the subject matter jurisdiction of the Board be placed on the agenda of a regular meeting. The request shall be submitted in writing to the Superintendent or designee with supporting documents and information. (Education Code 35145.5)
+***The Vice-President shall also collaborate in the agenda preparation process as deemed appropriate, ensuring alignment with Board priorities and fostering broader input. Such collaboration is encouraged, though at the discretion of the Board president and Superintendent.***
+
+Any member of the public, or an individual Board member acting in that Board member's capacity as a member of the public, may request that a matter within the subject matter jurisdiction of the Board be placed on the agenda of a regular meeting. The request shall be submitted in writing to the Superintendent or designee with supporting documents and information. (Education Code 35145.5)
 
 The Board president and Superintendent shall decide whether such a request is within the subject matter jurisdiction of the Board. Items not within the subject matter jurisdiction of the Board shall not be placed on the agenda. Additionally, if the Board president and Superintendent determine that the request is merely a request for information, then the request shall not be placed on the agenda.
 
@@ -74,7 +76,7 @@ A Board member may request in writing, at a meeting as part of a related open se
 
 The Board president and Superintendent shall also decide whether an agenda item is appropriate for discussion in open or closed session, whether the item should be an action item subject to Board vote or an information item, and when the item is placed on the agenda.***
 
-In order to promote efficient meetings, the Board may bundle a number of items and act upon them together by a single vote through the use of a**subject-based**or consent **calendar,** except as required by law. Consent items shall be items of a routine nature for which Board discussion is not anticipated and for which the Superintendent recommends approval.
+In order to promote efficient meetings, the Board may bundle a number of items and act upon them together by a single vote through the use of a***subject-based***or consent***calendar,***except as required by law. Consent items shall be items of a routine nature for which Board discussion is not anticipated and for which the Superintendent recommends approval.
 
 **Agenda Dissemination to Board Members**
 
