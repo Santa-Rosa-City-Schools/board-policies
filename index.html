@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Board Policy Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+  rel="stylesheet"
+/>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-row">
+    <div class="topbar-text">
+      <div class="eyebrow" id="institution-eyebrow">BOARD POLICY ARCHIVE</div>
+      <h1 id="institution-name">Loading&hellip;</h1>
+      <p class="subhead">Browse current board policies and compare them against earlier revisions</p>
+    </div>
+    <div class="topbar-controls">
+      <button type="button" id="toggle-sidebar" class="btn-chip">Hide list</button>
+      <button type="button" id="toggle-theme" class="btn-chip" title="Switch color theme">Dark</button>
+    </div>
+  </div>
+</header>
+
+<div class="layout" id="layout">
+  <aside class="sidebar">
+    <input type="search" id="search" placeholder="Search by code, title, or type&hellip;" autocomplete="off" />
+    <label class="fulltext-toggle">
+      <input type="checkbox" id="search-fulltext" />
+      Search full policy text
+    </label>
+    <div id="policy-list" class="policy-list" aria-live="polite"></div>
+  </aside>
+
+  <main class="detail" id="detail">
+    <div class="empty-state">
+      <p>Select a policy from the list to view its current text and revision history.</p>
+    </div>
+  </main>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
